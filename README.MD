@@ -16,7 +16,7 @@
 
 - Run 'index.py' to start server.
 
-- Run 'run.bat' to start server.
+- (Or) Run 'run.bat' to start server.
 
 
 
