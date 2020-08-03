@@ -19,19 +19,4 @@
 - Run 'run.bat' to start server.
 
 
-## Notes:
-### Help:
-    > flask run --help
-
-### run on Linux: 
-    > export FLASK_APP=index.py
-
-### run on Windows: 
-    > set FLASK_APP=index.py
-    > $venv:FLASK_APP = "main"
-    > flask run
-
-### change port (debugger to view error):
-    > flask run -p 1000 --reload --debugger
-
 
