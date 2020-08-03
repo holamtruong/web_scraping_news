@@ -1,3 +1,4 @@
+""" ----------- Import modules ------------------- """
 from flask import Flask, jsonify, request
 import utils
 
@@ -43,7 +44,6 @@ def get_news_by_id(news_id):
         "categories_name": r[4],
         "categories_url": r[5]
     }
-
     return jsonify({"product": d})
 
 
