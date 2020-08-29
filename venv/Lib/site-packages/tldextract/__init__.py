@@ -1,4 +1,5 @@
 """Export tldextract's public interface."""
 
-from .cli import __version__
 from .tldextract import extract, TLDExtract
+
+from ._version import version as __version__
