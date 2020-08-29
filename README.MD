@@ -1,5 +1,14 @@
 # NEWS APP
 This application is design to collect and scrap news data from different sources in a unified way using the python packages 'newspaper3k'. Flask module is use to publish information via HTTP method. SQLite is choice as embedded database software for local storage in this application.
+
+### Demo scrap news data:
+![](https://github.com/holamtruong/pdf2img_gui/blob/master/screen.png?raw=true)
+
+### Database:
+![](https://github.com/holamtruong/news_app/blob/master/demo/screen_01.PNG?raw=true)
+
+
+
 ## Setup environment
 
 ### Install flask
